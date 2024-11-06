@@ -62,14 +62,18 @@ Com o tempo, Raphael começou a notar que sua visão de futuro estava se tornand
 #### Conclusão
 
 ### Engenharia de Requisitos
+
 ### Elicitação de Requisitos
+
 ### Especificação de Requisitos
+
 ### Avaliação - Especificação de Requisitos
 
 ## Projeto conceitual e especificação do design
 ![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)
 
 ### Wireframe
+
 ### Prototipação
 
 ## Conclusão
