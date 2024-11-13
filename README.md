@@ -4,6 +4,7 @@
 
 Figura 1 - Logo Choco Arte
 
+
 ## Visão Geral
 ### O Desafio
 Conceber e desenvolver um protótipo de software para automatizar e otimizar o processo de vendas e controle de estoque da empresa Chocoarte. 
