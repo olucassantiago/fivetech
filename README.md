@@ -1,7 +1,6 @@
 > # Relatório Criação de Sistema de Gerenciamento de Vendas e Estoque
 
-![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)
-Figura 1 - Logo Choco Arte
+![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8) Figura 1 - Logo Choco Arte
 
 ## Visão Geral
 ### O Desafio
@@ -41,7 +40,8 @@ Com o tempo, Arthur começou a notar que sua visão de futuro estava se tornando
 
 ## Who - Análise dos Stakeholders
 ### Persona
-![Brown and Cream Minimalist User Persona Poster](https://github.com/user-attachments/assets/96ca1a5e-16fa-4a30-868a-4508b24dafca)
+![Brown and Cream Minimalist User Persona Poster (1)](https://github.com/user-attachments/assets/c0bea6ae-8d0f-48de-b58f-1abbf9a1c20c)
+
 #### Mapa de Empatia
 ![Mapa de Empatia - Versão 1](https://github.com/user-attachments/assets/096d85f2-b82b-4f2d-a970-a83e0d3c3dd2)
 
