@@ -8,6 +8,7 @@ Conceber e desenvolver um protótipo de software para automatizar e otimizar o p
 O desafio central deste projeto é criar a prototipação do sistema de gerenciamento de vendas e estoque da Choco arte, que atualmente faz toda a gestão de forma manual. Há diversas melhorias que podem ser aplicadas ao método atual utilizado pela empresa, visando torná-lo mais eficiente para seus usuários e aumentando a produtividade e eficácia nas operações cotidianas. 
 Neste cenário, é necessário:
 
+- Análise de Steakholders: Identificar e entender as necessidades, expectativas, interesses e influência de cada stakeholder no desenvolvimento do projeto. 
 - Levantar os Requisitos: Realizar o levantamento de quais requisitos funcionais e não funcionais são necessários para a criação do sistema dentro das necessidade da Choco Arte, garantindo que o sistema seja prototipado dentro das necessidades da empresa;
 - Criar Prototipação: Uma vez que realizam toda a gestão de vendas e estoque de forma manual, a criação do protótipo é uma etapa de grande importância para o sistema. A partir dos requisitos levantados, a prototipação auxiliará o cliente a ter uma visão inicial das funcionalidades que estão disponíveis no sistema;
 
