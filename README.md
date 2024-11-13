@@ -16,54 +16,38 @@ Neste cenário, é necessário:
 ### Contexto
 Atualmente, a Choco Arte não conta com um sistema digital para gestão de vendas e estoque, o que é feito manualmente, resultando em dificuldades no controle de entrada e saída de produtos, além de falhas no registro de vendas e na previsão de faturamento. 
 
-## Ciclo de vida
-# INFORMAR AQUI QUAL O CICLO DE VIDA
-
-## Análise de tarefas, usuários e função
-### Why?
-#### Quem utilizará o sistema?
+## Why?
+### Quem utilizará o sistema?
 O sistema será utilizado exclusivamente pelos proprietários da Chocoarte, não sendo acessado diretamente pelos clientes.
 #### Quais seriam os problemas?
 Como a gestão das vendas e do estoque dos produtos acontece de forma manual, o controle das entradas e saídas fica dificultado e o processo de gerir a empresa fica mais moroso e maior possibilidade de erros.
-#### Descrição do cenário e interação atual
 
-#### Análise de Tarelas
+### Storytelling
+Em um dia típico na vida de Arthur, um jovem de 22 anos, da cidade de Teixeiras – MG, que estuda Análise e Desenvolvimento de Sistemas, o equilíbrio entre suas atividades diárias era um desafio constante. Além dos estudos, Raphael dedicava seu tempo à sua pequena empresa de doces, conciliando isso com sua paixão por esportes e lazer com a família, a namorada e os amigos, especialmente durante os jogos de vôlei nos finais de semana.
 
-#### Storytelling
-Em um dia típico na vida de Raphael, um jovem de 23 anos, da cidade de Teixeiras – MG, que estuda Análise e Desenvolvimento de Sistemas, o equilíbrio entre suas atividades diárias era um desafio constante. Além dos estudos, Raphael dedicava seu tempo à sua pequena empresa de doces, conciliando isso com sua paixão por esportes e lazer com a família, a namorada e os amigos, especialmente durante os jogos de vôlei nos finais de semana.
-
-Raphael sempre foi um sonhador e seu objetivo era claro: criar uma empresa sólida, estruturada e bem-sucedida no futuro. No entanto, como microempreendedor, o caminho não era fácil, ele enfrentava inseguranças e medos frequentes. “E se eu estiver cometendo os erros ao empreender?”. A pressão de fazer as vendas funcionarem diariamente pesava em sua mente, especialmente em dias em que os resultados não eram bons.
+Arthur sempre foi um sonhador e seu objetivo era claro: criar uma empresa sólida, estruturada e bem-sucedida no futuro. No entanto, como microempreendedor, o caminho não era fácil, ele enfrentava inseguranças e medos frequentes. “E se eu estiver cometendo os erros ao empreender?”. A pressão de fazer as vendas funcionarem diariamente pesava em sua mente, especialmente em dias em que os resultados não eram bons.
 
 A experiência de observar outros empreendedores o deixava dividido. Ele  percebia que muitas empresas estruturadas usavam sistemas para facilitar o trabalho e poupar tempo, enquanto outras, geralmente comandadas por pessoas mais velhas, ainda usavam métodos manuais, como cadernos para controle de estoque e contas.
 
-Em uma tarde após a aula, Raphael estava mais determinado do que nunca a melhorar sua empresa. Ele sabia que a tecnologia poderia ser a chave, não só para seu sucesso, mas também para o crescimento de seu negócio de doces. No entanto, ele não podia ignorar os conselhos que ouvia constantemente: "Cuidado com suas decisões, nem sempre as coisas saem como planejado". Mesmo assim, sua visão era clara — ele queria ser bem-sucedido, dar prosseguimento na sua empresa para se tornar um pilar para seus pais, como forma de retribuição por tudo o que eles fizeram por ele.
+Em uma tarde após a aula, Arthur estava mais determinado do que nunca a melhorar sua empresa. Ele sabia que a tecnologia poderia ser a chave, não só para seu sucesso, mas também para o crescimento de seu negócio de doces. No entanto, ele não podia ignorar os conselhos que ouvia constantemente: "Cuidado com suas decisões, nem sempre as coisas saem como planejado". Mesmo assim, sua visão era clara — ele queria ser bem-sucedido, dar prosseguimento na sua empresa para se tornar um pilar para seus pais, como forma de retribuição por tudo o que eles fizeram por ele.
 
-Certo dia, em uma conversa com seu professor, Raphael decidiu compartilhar seus anseios e suas frustrações, o anseio de aprofundar no seu empreendimento, mas também os medos de errar e investir em algo que não desse certo, as incertezas quanto a aplicação de um sistema para um microempreendedor. O professor, ouvindo atentamente, respondeu: "Raphael, não se trata apenas do custo ou da complexidade. Trata-se de praticidade. A tecnologia, quando bem aplicada, facilita sua vida e faz com que você foque no que realmente importa."
+Certo dia, em uma conversa com seu professor, Arthur decidiu compartilhar seus anseios e suas frustrações, o anseio de aprofundar no seu empreendimento, mas também os medos de errar e investir em algo que não desse certo, as incertezas quanto a aplicação de um sistema para um microempreendedor. O professor, ouvindo atentamente, respondeu: "Raphael, não se trata apenas do custo ou da complexidade. Trata-se de praticidade. A tecnologia, quando bem aplicada, facilita sua vida e faz com que você foque no que realmente importa."
 
-Essas palavras marcaram Raphael. Ele percebeu que o segredo para superar suas inseguranças como empreendedor estava em buscar soluções que simplificassem suas operações. O próximo passo foi claro: ele precisaria implementar um sistema que não fosse apenas acessível, mas também simples e intuitivo para a gestão das vendas e do estoque.
+Essas palavras marcaram Arthur. Ele percebeu que o segredo para superar suas inseguranças como empreendedor estava em buscar soluções que simplificassem suas operações. O próximo passo foi claro: ele precisaria implementar um sistema que não fosse apenas acessível, mas também simples e intuitivo para a gestão das vendas e do estoque.
 
-Com essa nova motivação, Raphael começou a esboçar ideias das necessidades da sua empresa dentro de um sistema. Dentre os objetivos, o sistema idealizado por ele precisava ser prático e fácil de uso.
+Com essa nova motivação, Arthur começou a esboçar ideias das necessidades da sua empresa dentro de um sistema. Dentre os objetivos, o sistema idealizado por ele precisava ser prático e fácil de uso.
 
-Com o tempo, Raphael começou a notar que sua visão de futuro estava se tornando mais clara e palpável. Ao adotar a tecnologia como aliada, ele não apenas simplificou a gestão de sua empresa, como também começou a crescer de forma consistente. Embora os medos e inseguranças ainda existissem, Raphael sabia que estava no caminho certo para alcançar seus objetivos — ser dono de uma empresa de sucesso e, ao mesmo tempo, ser um exemplo para seus pais e para as futuras gerações.
+Com o tempo, Arthur começou a notar que sua visão de futuro estava se tornando mais clara e palpável. Ao adotar a tecnologia como aliada, ele não apenas simplificou a gestão de sua empresa, como também começou a crescer de forma consistente. Embora os medos e inseguranças ainda existissem, Raphael sabia que estava no caminho certo para alcançar seus objetivos — ser dono de uma empresa de sucesso e, ao mesmo tempo, ser um exemplo para seus pais e para as futuras gerações.
 
-### Who - Análise dos Stakeholders
-#### Persona
+## Who - Análise dos Stakeholders
+### Persona
 ![Brown and Cream Minimalist User Persona Poster](https://github.com/user-attachments/assets/96ca1a5e-16fa-4a30-868a-4508b24dafca)
 #### Mapa de Empatia
 ![Mapa de Empatia - Versão 1](https://github.com/user-attachments/assets/096d85f2-b82b-4f2d-a970-a83e0d3c3dd2)
 
-### Avaliação - Análise de tarefa, usuários e função
-#### Análise de Tarefas
+## Engenharia de Requisitos
 
-#### Usuários
-
-#### Função
-
-#### Conclusão
-
-### Engenharia de Requisitos
-
-### Elicitação de Requisitos
+## Elicitação de Requisitos
 
 Em reunião com o cliente, identificamos as principais necessidades que o sistema deverá atender. Elas incluem:
 
@@ -73,7 +57,7 @@ Em reunião com o cliente, identificamos as principais necessidades que o sistem
 - Controle de caixa (fechamento de caixa, dentre outros);
 - Emissão de notas.
 
-### Especificação de Requisitos
+## Especificação de Requisitos
 
 A partir dos requisitos apresentados pelo cliente, a equipe responsável se reunião para elaborar os requisitos a nível de sistema que irá dar o suporte necessário para o desenvolvimento.
 
@@ -126,8 +110,8 @@ As seguintes informações são obrigatórias no cadastro:
 
 #### Requisito 4: Controle de Caixa
 
- **ID:** REQ-004
- **Descrição:** O sistema deve gerenciar as movimentações financeiras diárias.
+**ID:** REQ-004
+**Descrição:** O sistema deve gerenciar as movimentações financeiras diárias.
 
  Detalhamento:
 - Abertura de caixa com registro do valor inicial.
@@ -141,8 +125,8 @@ As seguintes informações são obrigatórias no cadastro:
  
 #### Requisito 5: Emissão de Notas Fiscais
 
- **ID:** REQ-005
- **Descrição:** O sistema deve emitir notas fiscais eletrônicas (NF-e) conforme a legislação vigente.
+**ID:** REQ-005
+**Descrição:** O sistema deve emitir notas fiscais eletrônicas (NF-e) conforme a legislação vigente.
 
 **Detalhamento:**
 - Geração de NF-e para vendas.
@@ -150,7 +134,7 @@ As seguintes informações são obrigatórias no cadastro:
 - Integração com sistemas de emissão de nota fiscal eletrônica (ex.: SEFAZ).
 - Possibilidade de cancelamento e correção de notas emitidas.
 
- **Justificativa:** Garantir que o sistema esteja em conformidade com a legislação fiscal vigente e facilitar o processo de emissão de notas.
+**Justificativa:** Garantir que o sistema esteja em conformidade com a legislação fiscal vigente e facilitar o processo de emissão de notas.
 **Prioridade:** Média
 
 
@@ -161,13 +145,13 @@ Após a realização do refinamentos do requisitos de nível de usuário para o 
 ## Projeto conceitual e especificação do design
 ![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)
 
-### Wireframe
+## Wireframe
 ![Telas do Sistema (2)](https://github.com/user-attachments/assets/c4ef0336-a3d8-407b-9a08-d4b729487aaf)
 Figura X - Telas do Sistema
 ![Página de Login (3)](https://github.com/user-attachments/assets/dbf24920-7813-465d-8a6b-f4cba2f44830)
 Figura X - Tela de Login
 
-### Prototipação
+## Prototipação
 
 ## Conclusão
 
