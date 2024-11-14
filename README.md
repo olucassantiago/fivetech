@@ -162,10 +162,7 @@ Figura X - Tela de Login
 
 A primeira versão deste projeto foi desenvolvido pelos alunos:
 
-| Lucas Santiago: (Análise e Desenvolvimento de Sistemas) |
-| Raphael Souza (Análise e Desenvolvimento de Sistemas) |
-| Ronald Neves: (Análise e Desenvolvimento de Sistemas) |
-| Samuel Souza (Análise e Desenvolvimento de Sistemas) |
-| Sérgio Dias: (Análise e Desenvolvimento de Sistemas) |
-| — — — — — — — — — — |
+| Lucas Santiago | Raphael Souza | Ronald Neves | Samuel Souza | Sérgio Dias |
+| — — — — — — — — — — | — — — — — — — — — — | — — — — — — — — — — | — — — — — — — — — — | — — — — — — — — — — |
+| (Análise e Desenvolvimento de Sistemas) |(Análise e Desenvolvimento de Sistemas) |(Análise e Desenvolvimento de Sistemas) |(Análise e Desenvolvimento de Sistemas) |(Análise e Desenvolvimento de Sistemas) |
 
