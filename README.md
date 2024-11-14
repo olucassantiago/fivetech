@@ -167,4 +167,5 @@ A primeira versão deste projeto foi desenvolvido pelos alunos:
 | Ronald Neves: (Análise e Desenvolvimento de Sistemas) |
 | Samuel Souza (Análise e Desenvolvimento de Sistemas) |
 | Sérgio Dias: (Análise e Desenvolvimento de Sistemas) |
+| — — — — — — — — — — |
 
