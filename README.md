@@ -129,6 +129,9 @@ As seguintes informações são obrigatórias no cadastro:
 
 ## :paintbrush: Identidade Visual
 
+![Logo_sem_fundo__1_-removebg-preview](https://github.com/user-attachments/assets/760c56da-2605-45ac-95df-db86c8a6da8c)
+
+
 
 ## 📐 Wireframe
 ![Telas do Sistema (2)](https://github.com/user-attachments/assets/c4ef0336-a3d8-407b-9a08-d4b729487aaf)
