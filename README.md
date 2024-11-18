@@ -129,8 +129,9 @@ As seguintes informações são obrigatórias no cadastro:
 
 ## :paintbrush: Identidade Visual
 
-
-![fivetech(4)](https://github.com/user-attachments/assets/2bc54202-58e1-4290-9855-70fa56cd5b20)
+Para a construção da identidade visual do projeto, utilizamos as cores da empresa FiveTech, o azul, o verde e o cinza.
+![fivetech(4)](https://github.com/user-attachments/assets/2bc54202-58e1-4290-9855-70fa56cd5b20) Figura X - Identidade Visual
+![Paleta de Core FiveTech](https://github.com/user-attachments/assets/f3ec0700-080b-4714-a6c1-de1484b95ebe) Figura X - Paleta de Cores FiveTech
 
 
 
@@ -143,6 +144,8 @@ Figura 5 - Tela de Login
 ---
 
 ## 🎨 Prototipação
+
+[Acesse a Alta Fidelidade]([https://github.com/RaphaSouza28](https://drive.google.com/drive/folders/1U-wxqddakBGYWnlJ5wGrn3xZpF3KwmCt?usp=sharing))
 
 ---
 
