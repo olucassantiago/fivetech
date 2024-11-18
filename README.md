@@ -38,10 +38,10 @@ Em um dia típico na vida de Arthur, um jovem de 22 anos, da cidade de Teixeiras
 
 ## :busts_in_silhouette: Who - Análise dos Stakeholders
 ### :bust_in_silhouette: Persona
-![Brown and Cream Minimalist User Persona Poster (1)](https://github.com/user-attachments/assets/c0bea6ae-8d0f-48de-b58f-1abbf9a1c20c)
+![Brown and Cream Minimalist User Persona Poster (1)](https://github.com/user-attachments/assets/c0bea6ae-8d0f-48de-b58f-1abbf9a1c20c) Figura 2 - Persona
 
 #### :thought_balloon: Mapa de Empatia
-![Mapa de Empatia - Versão 1](https://github.com/user-attachments/assets/096d85f2-b82b-4f2d-a970-a83e0d3c3dd2)
+![Mapa de Empatia - Versão 1](https://github.com/user-attachments/assets/096d85f2-b82b-4f2d-a970-a83e0d3c3dd2) Figura 3 - Mapa de Empatia
 
 ---
 
@@ -132,9 +132,9 @@ As seguintes informações são obrigatórias no cadastro:
 
 ## 📐 Wireframe
 ![Telas do Sistema (2)](https://github.com/user-attachments/assets/c4ef0336-a3d8-407b-9a08-d4b729487aaf)
-Figura X - Telas do Sistema  
+Figura 4 - Telas do Sistema  
 ![Página de Login (3)](https://github.com/user-attachments/assets/dbf24920-7813-465d-8a6b-f4cba2f44830)
-Figura X - Tela de Login
+Figura 5 - Tela de Login
 
 ---
 
