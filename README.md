@@ -127,6 +127,9 @@ As seguintes informações são obrigatórias no cadastro:
 ## 🖌️ Projeto Conceitual e Especificação do Design
 ![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)
 
+## :paintbrush: Identidade Visual
+
+
 ## 📐 Wireframe
 ![Telas do Sistema (2)](https://github.com/user-attachments/assets/c4ef0336-a3d8-407b-9a08-d4b729487aaf)
 Figura X - Telas do Sistema  
