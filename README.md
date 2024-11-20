@@ -41,7 +41,7 @@ Em um dia típico na vida de Arthur, um jovem de 22 anos, da cidade de Teixeiras
 ![Brown and Cream Minimalist User Persona Poster (1)](https://github.com/user-attachments/assets/c0bea6ae-8d0f-48de-b58f-1abbf9a1c20c) Figura 2 - Persona
 
 #### :thought_balloon: Mapa de Empatia
-![Mapa de Empatia - Versão 1](https://github.com/user-attachments/assets/096d85f2-b82b-4f2d-a970-a83e0d3c3dd2) Figura 3 - Mapa de Empatia
+![Mapa de Empatia (1)](https://github.com/user-attachments/assets/68e28d83-0419-4cee-87d8-334226f08288) Figura 3 - Mapa de Empatia
 
 ---
 
