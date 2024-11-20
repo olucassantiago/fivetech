@@ -52,7 +52,7 @@ Em um dia típico na vida de Arthur, um jovem de 22 anos, da cidade de Teixeiras
 Em reunião com o cliente, identificamos as principais necessidades que o sistema deverá atender. Elas incluem:
 - Controle de estoque;
 - Alerta de baixa estoque;
-- Cadastro de produtos;
+- Cadastro de produt;
 - Controle de caixa (fechamento de caixa, dentre outros);
 - Emissão de notas.
 
