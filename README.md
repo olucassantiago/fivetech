@@ -126,16 +126,15 @@ As seguintes informações são obrigatórias no cadastro:
 
 ## 🖌️ Projeto Conceitual e Especificação do Design
 
-![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)
-Figura 4 - Logo da ChocoArte
+![Logo ChocoArte](https://github.com/user-attachments/assets/8d7811ce-1830-4f3f-9342-89459bcb6ac8)<br>Figura 4 - Logo da ChocoArte
 
 
 ## :paintbrush: Identidade Visual
 
 Para a construção da identidade visual do projeto, utilizamos as cores da empresa FiveTech, o azul, o verde e o cinza.
 
-![fivetech(4)](https://github.com/user-attachments/assets/2bc54202-58e1-4290-9855-70fa56cd5b20)
-Figura 5 - Logo FiveTech
+![fivetech(4)](https://github.com/user-attachments/assets/2bc54202-58e1-4290-9855-70fa56cd5b20) <br>Figura 5 - Logo FiveTech
+
 
 As cores da nossa identidade traduzem nossa essência tecnológica: o azul vibrante (#1f11cc) reflete inovação e criatividade, enquanto o verde (#1dca16) simboliza dinamismo e evolução, equilibrados pelo cinza (#767474), que traz modernidade e estabilidade.
 
