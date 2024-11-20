@@ -22,7 +22,7 @@ Atualmente, a Choco Arte não conta com um sistema digital para gestão de venda
 
 ---
 
-## :mag: Why?
+## :mag: Why
 ### :people_holding_hands: Quem utilizará o sistema?
 O sistema será utilizado exclusivamente pelos proprietários da Chocoarte, não sendo acessado diretamente pelos clientes.
 
